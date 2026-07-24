@@ -1,6 +1,6 @@
 # Gesture-Controlled Music Player (macOS)
 
-Control music playback with hand gestures using your webcam — no mouse or keyboard needed.
+Control music playback with hand gestures using your webcam, no mouse or keyboard needed.
 
 ## Features
 - **Pinch** (thumb + index finger together) → play/pause
